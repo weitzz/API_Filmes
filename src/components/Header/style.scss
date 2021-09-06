@@ -1,0 +1,25 @@
+header{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 100%;
+  height: 60px;
+  background-color:#001F57;
+}
+.logo{
+  text-decoration: none;
+  font-size: 1.8rem;
+  color: #f7f7f7;
+  cursor: pointer;
+}
+.favorites{
+  color: #f7f7f7;
+  cursor: pointer;
+  font-size: 1rem;
+  text-decoration: none;
+  background-color: #3B7EF5;
+  border-radius: 4px;
+  padding: 6px;
+  font-weight: bold;
+  
+}

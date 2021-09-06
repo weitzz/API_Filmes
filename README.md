@@ -21,8 +21,6 @@ Rode ```npm start``` na pasta filmes. Acesse via **localhost:3000**.
 - Axios
 - Toastify
 
-## Api Utilizada
- > http://www.icndb.com/api/
 
  
 ![Imgur](https://i.imgur.com/4x4Gm5G.png)
